@@ -1,1 +1,2 @@
 https://token.actions.githubusercontent.com
+https://keycloak.exit.o6s.io/realms/master
