@@ -4,3 +4,5 @@ https://auth.exit.welteki.dev/realms/openfaas
 https://keycloak.exit.o6s.io/realms/openfaas
 https://alexellis.eu.auth0.com/
 https://welteki.eu.auth0.com/
+https://kubiya-dev.us.auth0.com/
+https://kubiya.us.auth0.com/
