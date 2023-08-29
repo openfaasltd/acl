@@ -2,3 +2,5 @@ https://token.actions.githubusercontent.com
 https://keycloak.exit.o6s.io/realms/master
 https://auth.exit.welteki.dev/realms/openfaas
 https://keycloak.exit.o6s.io/realms/openfaas
+https://alexellis.eu.auth0.com/
+https://welteki.eu.auth0.com/
