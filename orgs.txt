@@ -2,5 +2,4 @@ openfaas
 kubiyabot
 gopatchworks
 optiv
-nudibranches-tech
 Q-stock
