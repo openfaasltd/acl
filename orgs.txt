@@ -3,3 +3,4 @@ kubiyabot
 gopatchworks
 optiv
 Q-stock
+Fullscript
