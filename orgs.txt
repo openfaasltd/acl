@@ -1,5 +1,4 @@
 openfaas
-kubiyabot
 gopatchworks
 optiv
 Q-stock
