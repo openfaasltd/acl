@@ -3,4 +3,4 @@ gopatchworks
 optiv
 Q-stock
 Fullscript
-basis-theory
+Basis-Theory
