@@ -1,5 +1,4 @@
 openfaas
 optiv
-Q-stock
 Fullscript
-Basis-Theory
+netwrix
